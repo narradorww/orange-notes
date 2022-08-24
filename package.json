@@ -10,14 +10,10 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.2",
-    "@types/node": "^16.11.52",
-    "@types/react": "^18.0.17",
-    "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
-    "typescript": "^4.7.4",
     "typescript-plugin-css-modules": "^3.4.0",
     "web-vitals": "^2.1.4"
   },
@@ -46,7 +42,14 @@
     ]
   },
   "devDependencies": {
+    "@types/jest": "^28.1.8",
     "@types/material-ui": "^0.21.12",
-    "@types/react-tap-event-plugin": "^0.0.31"
+    "@types/node": "^18.7.13",
+    "@types/query-string": "^6.3.0",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-router-dom": "^5.3.3",
+    "@types/react-tap-event-plugin": "^0.0.31",
+    "typescript": "^4.7.4"
   }
 }
