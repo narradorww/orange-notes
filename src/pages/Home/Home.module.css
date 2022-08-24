@@ -1,0 +1,25 @@
+.Home__title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #FC3E09;
+  padding: 1rem 1rem;
+}
+
+.Home__content{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #f2ebe7;
+  padding: 1rem 1rem;
+}
+
+.Home__button{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #f2ebe7;
+  padding: 1rem 1rem;
+}
