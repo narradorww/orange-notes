@@ -1,0 +1,13 @@
+body {
+    position: relative;
+    width: 360px;
+    height: 800px;
+    overflow-y: scroll;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), linear-gradient(180deg, rgba(252, 62, 9, 0.6) 60%, rgba(252, 62, 9, 0) 100%), linear-gradient(180deg, #644935 20%, rgba(100, 73, 53, 0) 100%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.8);
+  }
+  
+  img {
+    width: 100px;
+    height: auto;
+  }
