@@ -1,10 +1,13 @@
 import React from 'react'
+import CardContent from '../../components/CardContent';
+import Header from '../../components/Header';
 
 const ContentList = () => {
     return(
-        <div>
-            <h1>ContentList</h1>
-        </div>
+        <>
+        <Header />
+        <CardContent/>
+        </>
     );
 }
 
